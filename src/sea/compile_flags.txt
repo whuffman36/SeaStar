@@ -1,0 +1,7 @@
+-std=c11
+-Wall
+-Wextra
+-pedantic
+-O2
+-I/usr/include
+-I/home/liam/Projects/SeaStar/src
